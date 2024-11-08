@@ -12,4 +12,4 @@ Our widget displays the remaining weeks in the current year using your device's 
 We may update this privacy policy from time to time. Any changes will be posted on this page.
 
 ## Contact Us
-If you have questions about this privacy policy, please create an issue in our GitHub repository.
+If you have questions about this privacy policy, please email me nexteacc@gmail.com
