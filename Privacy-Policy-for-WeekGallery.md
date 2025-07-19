@@ -5,7 +5,7 @@ WeeksGallery respects your privacy. We do not collect, store, or transmit any pe
 The only permissions we request are:
 
 Photo Library Access: To allow you to select photos for your widgets
-Notification Permission: To notify you about weekly photo updates (optional)
+
 Third-Party Services
 WeeksGallery does not integrate with any third-party analytics, advertising, or tracking services.
 
